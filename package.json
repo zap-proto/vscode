@@ -1,12 +1,13 @@
 {
-    "name": "vscode-zap",
+    "name": "zap-syntax",
     "displayName": "ZAP - Zero-Copy App Proto",
     "description": "Syntax highlighting and language support for ZAP schema files",
     "version": "1.0.0",
-    "publisher": "zap-protocol",
+    "private": true,
+    "publisher": "zap-proto",
     "repository": {
         "type": "git",
-        "url": "https://github.com/zap-protocol/zap-vscode"
+        "url": "https://github.com/zap-proto/zap-vscode"
     },
     "engines": {
         "vscode": "^1.74.0"
@@ -60,8 +61,8 @@
         "test": "node ./node_modules/vscode/bin/test"
     },
     "devDependencies": {
-        "typescript": "^5.0.0",
-        "@types/node": "^18.0.0",
-        "@types/vscode": "^1.74.0"
+        "@types/node": "^25.9.1",
+        "@types/vscode": "^1.120.0",
+        "typescript": "^6.0.3"
     }
 }
