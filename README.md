@@ -1,5 +1,8 @@
 # Capnproto support for vscode
 
+> **Docs:** [ZAP for VS Code](https://zap-proto.dev/docs/sdks) · part of the [ZAP Protocol](https://zap-proto.io)
+
+
 Support for capnproto (http://capnproto.org/) 
 
 ## Features
