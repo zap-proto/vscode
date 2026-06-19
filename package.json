@@ -7,7 +7,7 @@
     "publisher": "zap-proto",
     "repository": {
         "type": "git",
-        "url": "https://github.com/zap-proto/zap-vscode"
+        "url": "https://github.com/zap-proto/vscode"
     },
     "engines": {
         "vscode": "^1.74.0"
